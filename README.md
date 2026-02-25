@@ -1,2 +1,2 @@
-# Neopixel-Line-Wobbler-
-This is an attempt to recreate twang
+A port of neopixel line wobbler(Twaang) to Esp8266 for wireless control.
+
